@@ -3,9 +3,9 @@
 
 ## ÍNDICE | INDEX
 * [Intro](#Intro)
-* [¿Qué construí? | What did I build?]()
-* [Objetivo del proyecto | Project objective]()
-* [¡Link al demo! | Link to demo!]()
+* [¿Qué construí? | What did I build?](https://github.com/CinthiaAlarcon/Google-Clone/blob/main/README.md#qu%C3%A9-constru%C3%AD--what-did-i-build)
+* [Objetivo del proyecto | Project objective](https://github.com/CinthiaAlarcon/Google-Clone/blob/main/README.md#objetivo-del-proyecto--project-objective)
+* [¡Link al demo! | Link to demo!](https://github.com/CinthiaAlarcon/Google-Clone/blob/main/README.md#link-al-demo--link-to-demo)
 
 ***
 
