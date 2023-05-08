@@ -2,7 +2,7 @@
 ###### Created with HTML5 &amp; CSS3 at TecnolochicasPro's bootcamp | Creado con HTML5 &amp; CSS3 en el bootcamp de TecnolochicasPro
 
 ## ÍNDICE | INDEX
-* [Intro]()
+* [Intro](#Intro)
 * [¿Qué construí? | What did I build?]()
 * [Objetivo del proyecto | Project objective]()
 * [¡Link al demo! | Link to demo!]()
